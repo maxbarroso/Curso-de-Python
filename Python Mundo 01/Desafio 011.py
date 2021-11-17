@@ -5,3 +5,10 @@
 
 # Aluno MaxBarroso
 
+print('Vamos te ajudar a calcular a quantidade de tintaque você precisa para pintar uma parede.')
+alt = float(input('Digite a altura da parede em metros. (Use . ponto ao invés de vírgula) '))
+larg = float(input('Digite a largura da parede da parede em metros. (Use . ponto ao invés de vírgula: '))
+area = alt * larg 
+tint = area /2
+print('A área a ser pintada será: {}' .format(area) )
+print('A quantidade de tinta necessária para pintar {} será de {} Litros' .format(area, tint))
