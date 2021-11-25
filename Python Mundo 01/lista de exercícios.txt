@@ -1,0 +1,23 @@
+ex 016
+Faça um programa que leia um numero real qualquer pelo teclado e mostre
+sua porção inteira. Ex: Digite um numero: 6.127 O número 6.127 tem a parte Inteira 6
+
+ex 017
+Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triangulo, calcule e mostre o comprimento da hipotenusa.
+
+ex 018
+Faça um programa que leia um angulo qualquer e mostre na tela o valor do seno cosseno e tangente desse angulo
+
+ex 019
+Um professor quer sortear um dos seus quatro alunos para apagar o quadro.
+Faça um programa que ajude ele lendo os nomes deles e escrevendo o nome escolhido.
+
+ex 020
+O mesmo professor do desafio anterior quer sortear a ordem de apresentação de trabalhos dos alunos.
+Faça um programa que leia o nome dos 4 alunos e mostre a ordem sorteada.
+
+
+
+ex 021
+Faça um programa em Python que abra e reproduza um áudio mp3
+
